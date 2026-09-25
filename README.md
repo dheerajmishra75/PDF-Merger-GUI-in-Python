@@ -6,7 +6,7 @@ The project uses Tkinter for the graphical interface and `pypdf` for PDF process
 
 ## 🎥 Preview
 
-[▶️ Watch PDF Merger GUI Preview](./Preview_video/PDF%20Merger%20GUI%20in%20Python.mp4)
+[▶️ Watch Project Demo](./Preview/PDF%20Merger%20GUI%20in%20Python.mp4)
 
 The preview demonstrates selecting multiple PDF files, displaying the selected files in the application, choosing an output location, and merging the PDFs into a single document.
 
